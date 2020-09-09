@@ -1,2 +1,2 @@
-# Sensors-and-Actuators
-Online course provided by EJUST-Robotics-Club.
+# Sensors and Actuators
+Online course provided by EJUST Robotics Club.

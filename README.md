@@ -32,6 +32,6 @@ Mainly, robotics interacts with surrounding environments via both of sensors and
 7.Electrical Drives
 
 ## Course Instructors
-![Eng.Islam Shafeek]()
+![Eng.Islam Shafeek](https://github.com/Ejust-Robotics-Club/Sensors-Actuators/blob/master/FB_IMG_1599671871360.jpg)
   
 Return to [home page](https://ejust-robotics-club.github.io/Ejust-Robotics-Club/).
